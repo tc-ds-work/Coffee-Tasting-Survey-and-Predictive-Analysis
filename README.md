@@ -98,4 +98,3 @@ After checking the mode values of each cluster’s columns and making use of my 
  - Favors medium roast
  - Seeks out lattes with a sweet kick
  - Drinks for the caffeine boost
->>>>>>> d76c0e5 (Adding project files, readme, and supporting data visualization files)
