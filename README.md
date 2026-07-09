@@ -15,10 +15,10 @@ In this project, I analyzed the results of a survey conducted by James Hoffmann,
 
 The crux of the survey focused on a sample of four different coffees that participants were provided to taste test:
 
-    - Coffee A: Light Roast, Washed
-    - Coffee B: Medium Roast
-    - Coffee C: Dark Roast
-    - Coffee D: Light Roast, Natural
+ - Coffee A: Light Roast, Washed
+ - Coffee B: Medium Roast
+ - Coffee C: Dark Roast
+ - Coffee D: Light Roast, Natural
 
 The difference between Coffee A and D comes down to the processing method. Coffee D's natural process results in fermentation, leading to a more distinct, fruity taste profile. Washed, light roast coffees tend to have more pronounced acidity and citric flavors.
 
@@ -28,31 +28,31 @@ It’s important to note that participation was voluntary, and the survey was an
 
 ## Central Questions
 
-    - Which coffees have the most widespread appeal? 
-    - Can we confirm whether this dataset skews towards a coffee enthusiast audience?
-    - Can we predict a coffee preference based on demographic data?
-    - Are there customer profiles we can build using this dataset?
+ - Which coffees have the most widespread appeal? 
+ - Can we confirm whether this dataset skews towards a coffee enthusiast audience?
+ - Can we predict a coffee preference based on demographic data?
+ - Are there customer profiles we can build using this dataset?
 
 ## Methods Used
 
-    - Inferential Statistics
-    - Data Visualization
-    - Machine Learning 
-        - Classification 
-            - Logistic Regression
-            - SVC
-            - Random Forest
-    - Clustering: KModes
-    - Dimensionality Reduction: PCA
+ - Inferential Statistics
+ - Data Visualization
+ - Machine Learning 
+     - Classification 
+         - Logistic Regression
+         - SVC
+         - Random Forest
+ - Clustering: KModes
+ - Dimensionality Reduction: PCA
 
 ## Workflow
 
-    1)	Data Cleaning
-    2)	Exploratory Data Analysis
-    3)	Preprocessing for ML Techniques
-    4)	Classification
-    5)	Clustering
-    6)	Final Results & Key Insights
+ 1)	Data Cleaning
+ 2)	Exploratory Data Analysis
+ 3)	Preprocessing for ML Techniques
+ 4)	Classification
+ 5)	Clustering
+ 6)	Final Results & Key Insights
 
 ## Predictive Analytics & Clustering
 
@@ -85,17 +85,17 @@ After checking the mode values of each cluster’s columns and making use of my 
 **Customer profiles can be split into three key groups.** Using a clustering analysis, the following groups came into focus:
 
 1)	**Specialty Pourover Purist:**
-    - Light roast enjoyer
-    - Pure pourover expert
-    - High spender at home and in the cafe
+ - Light roast enjoyer
+ - Pure pourover expert
+ - High spender at home and in the cafe
 
 2)	**Flexible Espresso Aficionado:** 
-    - Light to medium roast preference
-    - Latte enjoyer, with milk only
-    - Heavily invested in espresso equipment
+ - Light to medium roast preference
+ - Latte drinker, with milk only
+ - Heavily invested in espresso equipment
 
 3)	**Casual Coffee Enjoyer:**
-    - Favors medium roast
-    - Seeks out lattes with a sweet kick
-    - Drinks for the caffeine boost
+ - Favors medium roast
+ - Seeks out lattes with a sweet kick
+ - Drinks for the caffeine boost
 >>>>>>> d76c0e5 (Adding project files, readme, and supporting data visualization files)
